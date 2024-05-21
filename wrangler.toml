@@ -8,5 +8,5 @@ main = "src/worker-vless.js"
 compatibility_date = "2024-04-15"
 
 [vars]
-USERNAME = '8fabcdbd-a51d-4720-8942-c3fc9cf99bb3'
+PASSWORD = 'zenkilla'
 PROXYIP= '140.238.64.65'
